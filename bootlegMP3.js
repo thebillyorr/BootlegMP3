@@ -21,127 +21,127 @@ let songDatabase = {
     },
     "始まりの瞬間": {
         "Album": "Love Live! Superstar!!",
-        "URL": "https://drive.google.com/file/d/13GRT7kmFGmK3ef2pzzcs3JCP_E7INCd-/view?usp=share_link"
+        "URL": "https://drive.google.com/file/d/1YdxAsaEnhEWzb3UtXoVosbFQTinHYzQ1/view?usp=share_link"
     },
     "想いをカタチに": {
         "Album": "Love Live! Superstar!!",
-        "URL": "https://drive.google.com/file/d/1HPtMgc0DahpuZMtjtUHZP-KoxV165lGF/view?usp=share_link"
+        "URL": "https://drive.google.com/file/d/1rIslKmSHozEKJGbsNAwZ_XcqOe-QaVLa/view?usp=share_link"
     },
     "星の連なり": {
         "Album": "Love Live! Superstar!!",
-        "URL": "https://drive.google.com/file/d/11GEp84tRozXbc6brQl-7f8rpM0ZjptQq/view?usp=share_link"
+        "URL": "https://drive.google.com/file/d/1x1t0wwJF9YcINJX__guMyW0qdWXLM312/view?usp=share_link"
     },
     "特訓スタート！": {
         "Album": "Love Live! Superstar!!",
-        "URL": "https://drive.google.com/file/d/174YYGd-2OX8Yqxf7BJ873qQ2tkSZZWvh/view?usp=share_link"
+        "URL": "https://drive.google.com/file/d/1UdG1Jd2wtHVh0PBt6xH2eglnClCRW5oP/view?usp=share_link"
     },
     "輝く気持ち": {
         "Album": "Love Live! Superstar!!",
-        "URL": "https://drive.google.com/file/d/1iHogmnYsxhZ8zmrt6tA3Y5pOZxLPCVPZ/view?usp=share_link"
+        "URL": "https://drive.google.com/file/d/1Ah3aim46zSkGXUsouEWTv1V4krQ1Fxqq/view?usp=share_link"
     },
     "高まり" : {
         "Album": "Love Live! Superstar!!",
-        "URL": "https://drive.google.com/file/d/152bssd59MAJ1AMwvBHmIJrx5hfMIbrmv/view?usp=share_link"
+        "URL": "https://drive.google.com/file/d/1_O5MDMnMeSD_3d7b6vPAIJLTXTOTLdbY/view?usp=share_link"
     },
     "Calm and Healthy": {
         "Album": "Akebi's Sailor Uniform",
-        "URL": "https://drive.google.com/file/d/1o49W5g1tLXXSbOiI--kF_bjiZUFBBO7O/view?usp=share_link"
+        "URL": "https://drive.google.com/file/d/1q0j_-b1MIXqbIgaYtHh2I5wMGmSF-t_X/view?usp=share_link"
     },
     "Exciting": {
         "Album": "Akebi's Sailor Uniform",
-        "URL": "https://drive.google.com/file/d/17fhJz7M-tPyXvhxhZ5gKGfXhwbOxe90R/view?usp=share_link"
+        "URL": "https://drive.google.com/file/d/11-futK-UWPkC1e9DXKYowG7bNaAGPyCZ/view?usp=share_link"
     },
     "Komichi's Theme": {
         "Album": "Akebi's Sailor Uniform",
-        "URL": "https://drive.google.com/file/d/1G9bO7u2XkBSm12FSTYAjk6fcsvm2CXqb/view?usp=share_link"
+        "URL": "https://drive.google.com/file/d/1dznRYVKRVMuEr3eQCtPH8iuaQ595lS52/view?usp=share_link"
     },
     "My First Sailor Uniform": {
         "Album": "Akebi's Sailor Uniform",
-        "URL": "https://drive.google.com/file/d/1HtiRHunoETrigqwK07l_KQZNAyz1RqSI/view?usp=share_link"
+        "URL": "https://drive.google.com/file/d/1PP2Iw3gxB2h5FWOOMNgta43ntKdXWMtO/view?usp=share_link"
     },
     "Start Running, Komichi": {
         "Album": "Akebi's Sailor Uniform",
-        "URL": "https://drive.google.com/file/d/1Ly27BlM4nqLRoIaMcYRmbGxl05Ad160L/view?usp=share_link"
+        "URL": "https://drive.google.com/file/d/1pTZFys6eSBIEWw9zD28nYgz3PtwtGJN8/view?usp=share_link"
     },
     "You Can Make Lots of Friends!": {
         "Album": "Akebi's Sailor Uniform",
-        "URL": "https://drive.google.com/file/d/1_qF5wEaF4q4F_WmfHEAi0zzjwXTd9ODY/view?usp=share_link"
+        "URL": "https://drive.google.com/file/d/1aD7WsmxQvExEaAXaQVhw6qNDxqi9wBVs/view?usp=share_link"
     },
     "Accomplishment": {
         "Album": "Girlfriend, Girlfriend",
-        "URL": "https://drive.google.com/file/d/1MC5XEBRdOKqKh-OE3bOT4pqtdg-ktxqY/view?usp=share_link"
+        "URL": "https://drive.google.com/file/d/1dCT7aiTO3mXFCJNk3U604RpvQ_dyqVz8/view?usp=share_link"
     },
     "Daydream": {
         "Album": "Girlfriend, Girlfriend",
-        "URL": "https://drive.google.com/file/d/1FZU0xhwnqVk5obrrxuhtfDchKP4dd1eG/view?usp=share_link"
+        "URL": "https://drive.google.com/file/d/12k9TMXD-Q5FqjsD7jEvtlxHYgXEZfAAl/view?usp=share_link"
     },
     "Fluttering Heart": {
         "Album": "Girlfriend, Girlfriend",
-        "URL": "https://drive.google.com/file/d/1OQ4Ecqs01X0Q_tUCZxXy4W991udnOmal/view?usp=share_link"
+        "URL": "https://drive.google.com/file/d/18Twhj3h31fCpNn6ZPqP2Mne_kacRaUz-/view?usp=share_link"
     },
     "Girlfriend, Girlfriend": {
         "Album": "Girlfriend, Girlfriend",
-        "URL": "https://drive.google.com/file/d/1gK1wnIPCvK7wbg9uUXRT3MpKnehwGWaF/view?usp=share_link"
+        "URL": "https://drive.google.com/file/d/1M4FcyShNBf8xiX6ZnbJ6RG72QAmzokBs/view?usp=share_link"
     },
     "Lovely Girls": {
         "Album": "Girlfriend, Girlfriend",
-        "URL": "https://drive.google.com/file/d/1v2Hodq076TfYyChFkhu7E4nrYsExox4k/view?usp=share_link"
+        "URL": "https://drive.google.com/file/d/1HG5zUayVePZpTlDFDRkoY8RrPGdYRRm7/view?usp=share_link"
     },
     "Please Go Out With Me!": {
         "Album": "Girlfriend, Girlfriend",
-        "URL": "https://drive.google.com/file/d/1kK3-WaYjatfkUyzm-WDD9jvfAmSm7dXO/view?usp=share_link"
+        "URL": "https://drive.google.com/file/d/17ev1ptpZa2MQuLr1Ip2gYGxdWEiZDaJX/view?usp=share_link"
     },
     "Spring Air": {
         "Album": "Girlfriend, Girlfriend",
-        "URL": "https://drive.google.com/file/d/1jHplo59w-e4TzA5xmNeOYi1bA1Yn7jSr/view?usp=share_link"
+        "URL": "https://drive.google.com/file/d/1bh4q8OSJeAWQTMkBGgEfIf9_mFfiLhOm/view?usp=share_link"
     },
     "Strong Will": {
         "Album": "Girlfriend, Girlfriend",
-        "URL": "https://drive.google.com/file/d/1etB9StYrmMs5eGWqcr4pLf-h-HlyTO5-/view?usp=share_link"
+        "URL": "https://drive.google.com/file/d/1ZNCuxgkERyhBQBsu2V6nkEaUU3FMvA6j/view?usp=share_link"
     },
     "The End Of Love": {
         "Album": "Girlfriend, Girlfriend",
-        "URL": "https://drive.google.com/file/d/16ndAmgrlKHpxU_kd6PHPFOfr0x5lEsh2/view?usp=share_link"
+        "URL": "https://drive.google.com/file/d/1n0rzhXNxVVjXv5M2riATR5BOTMAGZ5kk/view?usp=share_link"
     },
     "あなたを待っています": {
         "Album": "Quintessential Quintuplets",
-        "URL": "https://drive.google.com/file/d/1npLO-gh2j18ucIDnVKpIcOY7M_TqHgSU/view?usp=share_link"
+        "URL": "https://drive.google.com/file/d/1vLmUWm1rGXmskW4qSH7IUAFEDHt0VFIy/view?usp=share_link"
     },
     "フータローを信じる": {
         "Album": "Quintessential Quintuplets",
-        "URL": "https://drive.google.com/file/d/1ZEr3bUXPLUSX_xcpnS46UHZB73ErPJmU/view?usp=share_link"
+        "URL": "https://drive.google.com/file/d/1W2Isu_DOOpMf0PdqgGV6OsGCGP5VZW6y/view?usp=share_link"
     },
     "やるからには徹底的に": {
         "Album": "Quintessential Quintuplets",
-        "URL": "https://drive.google.com/file/d/1Fo96wWCkihxjcJQvOsSU19PsUwRbVFq9/view?usp=share_link"
+        "URL": "https://drive.google.com/file/d/1tLchSBG6JhuqTbdfkIZXkLPu9g3tQNVI/view?usp=share_link"
     },
     "五つ子ゲームファイナル": {
         "Album": "Quintessential Quintuplets",
-        "URL": "https://drive.google.com/file/d/1609A-wKt8GKPMlEMNpzgt1bl27Lc4t3k/view?usp=share_link"
+        "URL": "https://drive.google.com/file/d/16B6vRejnTUw7apMibyRQ4j7-kYn_PxGh/view?usp=share_link"
     },
     "五等分": {
         "Album": "Quintessential Quintuplets",
-        "URL": "https://drive.google.com/file/d/13JX8sBYNUdGwLZV6QOB2D8y1H64YDae3/view?usp=share_link"
+        "URL": "https://drive.google.com/file/d/1xjBo8aJLnWd7WlF0PA23b6EW3Id6GxCs/view?usp=share_link"
     },
     "何度も、何度も": {
         "Album": "Quintessential Quintuplets",
-        "URL": "https://drive.google.com/file/d/1NJ8EY2gtte8KfkZd486G_gb-bvjIKulT/view?usp=share_link"
+        "URL": "https://drive.google.com/file/d/1D4Umc-3Qh8bwmKPWt4WBj2OFyerjOAxs/view?usp=share_link"
     },
     "変わらないみんな": {
         "Album": "Quintessential Quintuplets",
-        "URL": "https://drive.google.com/file/d/10gO0V9xkUjD4h4yBzx5itZx0hri9R8Qx/view?usp=share_link"
+        "URL": "https://drive.google.com/file/d/1OyVwPXhlTmVssr905XSgtejT04FAxfYV/view?usp=share_link"
     },
     "夢を見ていた": {
         "Album": "Quintessential Quintuplets",
-        "URL": "https://drive.google.com/file/d/13_naAEO9PTZH_shFpOr4HeauadQn4wGl/view?usp=share_link"
+        "URL": "https://drive.google.com/file/d/1G1s_ucmZtggTh9H5-lJt2jqBFWmTaMKO/view?usp=share_link"
     },
-    "夢を見ていた": {
+    "思い出の場所": {
         "Album": "Quintessential Quintuplets",
-        "URL": "https://drive.google.com/file/d/1Mozl75v8gzbu2dHS50son--K56FBeQNS/view?usp=share_link"
+        "URL": "https://drive.google.com/file/d/1YDaXh4iJAq9hzr3l9OaRF8_--Zc0i_UW/view?usp=share_link"
     },
-    "夢を見ていた": {
+    "未来へ向かって": {
         "Album": "Quintessential Quintuplets",
-        "URL": "https://drive.google.com/file/d/1AysTcv29xjO9w93AFp8MbfKeDCzIECWy/view?usp=share_link"
+        "URL": "https://drive.google.com/file/d/1x0JouYJbWBntKKPttGU5Pxgiu2AmAVBP/view?usp=share_link"
     },
     "Makutosoke, Nothing to worry about": {
         "Album": "The Aquatope on White Sand",
