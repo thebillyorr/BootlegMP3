@@ -1,19 +1,19 @@
 let songDatabase = {
     "Case Closed": {
         "Album": "Lycoris Recoil",
-        "URL": "https://drive.google.com/file/d/1Sa8SVn7Zch5eGY4RhxkhY_woJvtegiss/view?usp=share_link"
+        "URL": "https://drive.google.com/file/d/1da6F4Rm5LfEBh3209M42hQn89Mtb5M-4/view?usp=share_link"
     },
     "Lycoris for Individuals": {
         "Album": "Lycoris Recoil",
-        "URL": "https://drive.google.com/file/d/11aKoiwpJhId7ApzBBCSrhj9mCp8tjfhk/view?usp=share_link"
+        "URL": "https://drive.google.com/file/d/11jtsDBOZ0bntpFtIqOahLjO2vVorUxpb/view?usp=share_link"
     },
     "Lycoris Recoil Theme": {
         "Album": "Lycoris Recoil",
-        "URL": "https://drive.google.com/file/d/1SpryZgoHmq_3DT12HgO3mRxm4UvLDBD5/view?usp=share_link"
+        "URL": "https://drive.google.com/file/d/1TwhLgLPwLLadqsxBuVv9DC7L2CKhXszl/view?usp=share_link"
     },
     "Momentary Rest": {
         "Album": "Lycoris Recoil",
-        "URL": "https://drive.google.com/file/d/1QenDRXyv6UCNSAvFJlozrJF9iHYKcfGz/view?usp=share_link"
+        "URL": "https://drive.google.com/file/d/13WCANMj8CshQ0MQf00GdV8pjmOFPvpc3/view?usp=share_link"
     },
     "Main Theme": {
         "Album": "Love Live! Superstar!!",
