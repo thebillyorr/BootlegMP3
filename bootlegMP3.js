@@ -17,7 +17,7 @@ let songDatabase = {
     },
     "Main Theme": {
         "Album": "Love Live! Superstar!!",
-        "URL": "https://drive.google.com/file/d/1PCQ_NxW7ci7AAD8pOfshIg6QbRJA3mZ_/view?usp=share_link"
+        "URL": "https://drive.google.com/file/d/1k-tBSgPXoVAvowdni6ZAJ5DxhPupSnoA/view?usp=share_link"
     },
     "始まりの瞬間": {
         "Album": "Love Live! Superstar!!",
