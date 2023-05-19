@@ -367,6 +367,14 @@ let songDatabase = {
         "Album": "More Than Married",
         "URL": "https://drive.google.com/file/d/1eGdX1gTFlCw5T9nl0-gMC8mUdAMDJJsr/view?usp=share_link"
     },
+    "Tomo-Chan - Sugary Mind":{
+        "Album": "One Off",
+        "URL": "https://drive.google.com/file/d/1Xo34cJZ-ruT_eOBtgbu_E04i7c1swrkY/view?usp=share_link"
+    },
+    "Horimiya - Route Sentimental":{
+        "Album": "One Off",
+        "URL": "https://drive.google.com/file/d/1q6GKHhdOWPECg0KuUmBvjKWvwSqpkaMP/view?usp=share_link"
+    },
 
 }
 
