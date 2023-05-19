@@ -467,6 +467,7 @@ function initAlbumList() {
         let albumTitle = document.createElement("span");
         albumTitle.innerHTML = albumList[album];
         albumTitle.style.cursor = "pointer";
+        albumTitle.style.fontWeight = "bold";
 
         albumWrapper.appendChild(albumTitle);
     
