@@ -1,4 +1,8 @@
 let songDatabase = {
+    "Lycoris Recoil Main Theme": {
+        "Album": "Lycoris Recoil",
+        "URL": "https://drive.google.com/file/d/1TwhLgLPwLLadqsxBuVv9DC7L2CKhXszl/view?usp=share_link"
+    },
     "Case Closed": {
         "Album": "Lycoris Recoil",
         "URL": "https://drive.google.com/file/d/1da6F4Rm5LfEBh3209M42hQn89Mtb5M-4/view?usp=share_link"
@@ -7,15 +11,11 @@ let songDatabase = {
         "Album": "Lycoris Recoil",
         "URL": "https://drive.google.com/file/d/11jtsDBOZ0bntpFtIqOahLjO2vVorUxpb/view?usp=share_link"
     },
-    "Lycoris Recoil Theme": {
-        "Album": "Lycoris Recoil",
-        "URL": "https://drive.google.com/file/d/1TwhLgLPwLLadqsxBuVv9DC7L2CKhXszl/view?usp=share_link"
-    },
     "Momentary Rest": {
         "Album": "Lycoris Recoil",
         "URL": "https://drive.google.com/file/d/13WCANMj8CshQ0MQf00GdV8pjmOFPvpc3/view?usp=share_link"
     },
-    "Main Theme": {
+    "Love Live! Main Theme": {
         "Album": "Love Live! Superstar!!",
         "URL": "https://drive.google.com/file/d/1k-tBSgPXoVAvowdni6ZAJ5DxhPupSnoA/view?usp=share_link"
     },
@@ -63,9 +63,13 @@ let songDatabase = {
         "Album": "Akebi's Sailor Uniform",
         "URL": "https://drive.google.com/file/d/1pTZFys6eSBIEWw9zD28nYgz3PtwtGJN8/view?usp=share_link"
     },
-    "You Can Make Lots of Friends!": {
+    "Friends": {
         "Album": "Akebi's Sailor Uniform",
         "URL": "https://drive.google.com/file/d/1aD7WsmxQvExEaAXaQVhw6qNDxqi9wBVs/view?usp=share_link"
+    },
+    "Kanojo mo Kanojo Main Theme": {
+        "Album": "Girlfriend, Girlfriend",
+        "URL": "https://drive.google.com/file/d/1M4FcyShNBf8xiX6ZnbJ6RG72QAmzokBs/view?usp=share_link"
     },
     "Accomplishment": {
         "Album": "Girlfriend, Girlfriend",
@@ -78,10 +82,6 @@ let songDatabase = {
     "Fluttering Heart": {
         "Album": "Girlfriend, Girlfriend",
         "URL": "https://drive.google.com/file/d/18Twhj3h31fCpNn6ZPqP2Mne_kacRaUz-/view?usp=share_link"
-    },
-    "Girlfriend, Girlfriend": {
-        "Album": "Girlfriend, Girlfriend",
-        "URL": "https://drive.google.com/file/d/1M4FcyShNBf8xiX6ZnbJ6RG72QAmzokBs/view?usp=share_link"
     },
     "Lovely Girls": {
         "Album": "Girlfriend, Girlfriend",
@@ -259,6 +259,115 @@ let songDatabase = {
         "Album": "Tada Never Falls in Love",
         "URL": "https://drive.google.com/file/d/1z6qHv6-0cENcf1oyyJCx9_Lyt6m0KPP4/view?usp=share_link"
     },
+    "Step for Joy": {
+        "Album": "Bofuri",
+        "URL": "https://drive.google.com/file/d/1H7PL49hwe5u9fxIhaulrMB6rVryMKYhW/view?usp=share_link"
+    },
+    "開け、冒険の扉": {
+        "Album": "Bofuri",
+        "URL": "https://drive.google.com/file/d/15GgL_d1LiBGpGRsh0eBwin9LHacfEAw2/view?usp=share_link"
+    },
+    "冒険は続く、みんなとともに": {
+        "Album": "Bofuri",
+        "URL": "https://drive.google.com/file/d/1r0jPgKuVQKDllg5PeKYvz8BeMprpH_gU/view?usp=share_link"
+    },
+    "メイプルのテーマ":{
+        "Album": "Bofuri",
+        "URL": "https://drive.google.com/file/d/1b8Dhl-tazL4TYpSRPg6af7qvoO_0iPWD/view?usp=share_link"
+    },
+    "楓の木" : {
+        "Album": "Bofuri",
+        "URL": "https://drive.google.com/file/d/117-ysWKmKbvjFbN1mDhVtdkSm-pSDPU1/view?usp=share_link"
+    },
+    "果てしない冒険の世界へ": {
+        "Album": "Bofuri",
+        "URL": "https://drive.google.com/file/d/1D6xBYbp3ptGTk6sMvDggv2TzaemsYAlO/view?usp=share_link"
+    },
+    "Angel's Theme":{
+        "Album": "The Angel Next Door",
+        "URL": "https://drive.google.com/file/d/1WIJWya2_YUAplOQILKcW-OTtgUNwjH_I/view?usp=share_link"
+    },
+    "Angel's Gift":{
+        "Album": "The Angel Next Door",
+        "URL": "https://drive.google.com/file/d/1MzAyGfEjCfb5_MsidMQBAoeKhf2yLE6W/view?usp=share_link"
+    },
+    "Sweet Smell":{
+        "Album": "The Angel Next Door",
+        "URL": "https://drive.google.com/file/d/1A_FdxI7ZauG8q128bCa_cbcGdvLa55MQ/view?usp=share_link"
+    },
+    "Cooking":{
+        "Album": "The Angel Next Door",
+        "URL": "https://drive.google.com/file/d/10wJYM7lUL_oyh9uH1OZJxr3Un_ndVBX-/view?usp=share_link"
+    },
+    "School":{
+        "Album": "The Angel Next Door",
+        "URL": "https://drive.google.com/file/d/1xhVisixKwWI05_zMX-c_ooHa7KXPNssb/view?usp=share_link"
+    },
+    "Caramel Gaze":{
+        "Album": "The Angel Next Door",
+        "URL": "https://drive.google.com/file/d/1Vhmv48UoRajIqgLx0W5-TVblEiDZHPJg/view?usp=share_link"
+    },
+    "Feeling Happy":{
+        "Album": "The Angel Next Door",
+        "URL": "https://drive.google.com/file/d/12nDQdtwRy632FIGw5wi9_HkvfjUuugw2/view?usp=share_link"
+    },
+    "Please Watch More":{
+        "Album": "The Angel Next Door",
+        "URL": "https://drive.google.com/file/d/1Y-cLdAIpn6mvVUaxuJbg-Pc_Da6wAgvB/view?usp=share_link"
+    },
+    "Amane, Baka":{
+        "Album": "The Angel Next Door",
+        "URL": "https://drive.google.com/file/d/1xxJojEa3sTAxuvQGcJTdcJh4_ptFLFbs/view?usp=share_link"
+    },
+    "Taste of Happiness":{
+        "Album": "The Angel Next Door",
+        "URL": "https://drive.google.com/file/d/1EK5wwbes0NEaOH13AvolU9T1AGOYOzS5/view?usp=share_link"
+    },
+    "More Than Married Main Theme":{
+        "Album": "More Than Married",
+        "URL": "https://drive.google.com/file/d/1K23XKxn3mU1S2VwFBqpVEHTJh73mp38k/view?usp=share_link"
+    },
+    "Ahh":{
+        "Album": "More Than Married",
+        "URL": "https://drive.google.com/file/d/19BWaz1Ai_-vSx54R7FGc4Q5xuonfMTyK/view?usp=share_link"
+    },
+    "Cherry Blossoms at the Haiden":{
+        "Album": "More Than Married",
+        "URL": "https://drive.google.com/file/d/1Fa-NoOAT8ZPi2CmPluhf1Kx-sQGPaQax/view?usp=share_link"
+    },
+    "Doki Doki":{
+        "Album": "More Than Married",
+        "URL": "https://drive.google.com/file/d/16XRdLsBTvdIcLEKhhPw89mCAAogawB0b/view?usp=share_link"
+    },
+    "Neat Girl":{
+        "Album": "More Than Married",
+        "URL": "https://drive.google.com/file/d/1aqPsjxcKnaw5MIteEPtrY0eViLR70kiV/view?usp=share_link"
+    },
+    "Most Handsome":{
+        "Album": "More Than Married",
+        "URL": "https://drive.google.com/file/d/1fPivejyBsXr9hke73WGfXNIJWwGto84S/view?usp=share_link"
+    },
+    "Messy":{
+        "Album": "More Than Married",
+        "URL": "https://drive.google.com/file/d/1ViWK-HaRekXhvsxjtzoofkOhyTxDePcX/view?usp=share_link"
+    },
+    "Colorful Neo":{
+        "Album": "More Than Married",
+        "URL": "https://drive.google.com/file/d/1-C8wmIyyzO6CjEx3yWT_uiaoQDU9Zm5a/view?usp=share_link"
+    },
+    "Seishun Institue":{
+        "Album": "More Than Married",
+        "URL": "https://drive.google.com/file/d/18uoFnyS29QCt0v5w0MDtujtisTCiQ6zT/view?usp=share_link"
+    },
+    "Summer Ocean":{
+        "Album": "More Than Married",
+        "URL": "https://drive.google.com/file/d/13W36tIvre9syneLkXNDNl_6UXJ0T6-1T/view?usp=share_link"
+    },
+    "Aroma Candle":{
+        "Album": "More Than Married",
+        "URL": "https://drive.google.com/file/d/1eGdX1gTFlCw5T9nl0-gMC8mUdAMDJJsr/view?usp=share_link"
+    },
+
 }
 
 let currentSong = new Audio();
