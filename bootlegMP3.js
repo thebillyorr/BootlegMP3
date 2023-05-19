@@ -143,6 +143,10 @@ let songDatabase = {
         "Album": "Quintessential Quintuplets",
         "URL": "https://drive.google.com/file/d/1x0JouYJbWBntKKPttGU5Pxgiu2AmAVBP/view?usp=share_link"
     },
+    "クリスマスの奇跡": {
+        "Album": "Quintessential Quintuplets",
+        "URL": "https://drive.google.com/file/d/1jEtmwulPGvh1s2-cYtoKZ_nnof11wYGi/view?usp=share_link"
+    },
     "Makutosoke, Nothing to worry about": {
         "Album": "The Aquatope on White Sand",
         "URL": "https://drive.google.com/file/d/1-m4-aMxkpFpzZtsrrXXsQHAIi90Ld2s-/view?usp=share_link"
